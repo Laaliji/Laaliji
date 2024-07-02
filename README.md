@@ -11,8 +11,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on **Mobile Point of Sale Application**
-- 🌱 I’m currently learning **Laravel and React**
+- 🔭 I’m currently working on **Mobile Point of Sale Application.**
+- 🌱 I’m currently learning **Laravel and React.**
 - 👯 I’m looking to collaborate on **projects related to mobile or web development.**
 - 📫 How to reach me:
 <p align="center">
@@ -20,4 +20,20 @@
   <a href="https://www.linkedin.com/in/zakariae-laaliji-282184235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Laaliji"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
+</br>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,javascript,python,c,dart,express,laravel,nodejs,django"/></a></br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ajax,jquery,flutter,dart"/></br>
+    <img src="https://skillicons.dev/icons?i=git,docker,spark,kafka,grafana,prometheus,maven,gradle,jwt"/></br>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,postman,figma,github,eclipseandroidstudio,anaconda"/>
+</a>
+</div>
+    
+
+
+
 
