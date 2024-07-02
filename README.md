@@ -30,7 +30,6 @@
 </a>
 </div>
 
-![Snake animation](https://github.com/Laaliji/Laaliji/blob/output/github-contribution-grid-snake.svg)
 
     
 
