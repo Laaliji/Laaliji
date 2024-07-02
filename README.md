@@ -29,6 +29,9 @@
     <img src="https://skillicons.dev/icons?i=java,php,javascript,python,c,dart,express,laravel,nodejs,django,html,css,bootstrap,jquery,flutter,dart,git,docker,kafka,grafana,prometheus,maven,gradle,tensorflow,opencv,vscode,pycharm,idea,postman,figma,github,eclipse,androidstudio,anaconda"/>
 </a>
 </div>
+
+![Snake animation](https://github.com/Laaliji/Laaliji/blob/output/github-contribution-grid-snake.svg)
+
     
 
 
