@@ -26,10 +26,10 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,javascript,python,c,dart,express,laravel,nodejs,django"/></a></br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ajax,jquery,flutter,dart"/></br>
-    <img src="https://skillicons.dev/icons?i=git,docker,spark,kafka,grafana,prometheus,maven,gradle,jwt"/></br>
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,postman,figma,github,eclipseandroidstudio,anaconda"/>
+    <img src="https://skillicons.dev/icons?i=java,php,javascript,python,c,dart,express,laravel,nodejs,django"/></a>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,flutter,dart"/>
+    <img src="https://skillicons.dev/icons?i=git,docker,kafka,grafana,prometheus,maven,gradle,jwt,tensorflow,opencv"/>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,postman,figma,github,eclipse,androidstudio,anaconda"/>
 </a>
 </div>
     
