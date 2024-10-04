@@ -11,8 +11,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on **Mobile Point of Sale Application.**
-- 🌱 I’m currently learning **Laravel and React.**
+- 🔭 I’m currently an intern at **CodeAlpha**
+- 🌱 I’m currently learning **AI concepts**
 - 👯 I’m looking to collaborate on **projects related to mobile or web development.**
 - 📫 How to reach me:
 <p align="center">
