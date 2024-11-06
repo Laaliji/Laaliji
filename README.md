@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently a first year Master's degree student in AI and Software Engineering at the Universty of Cadi Ayyad.
 - 🌱 I’m currently learning **AI concepts**
-- 👯 I’m looking to collaborate on **projects related to mobile or web development.**
+- 👯 I’m looking to collaborate on **projects related to mobile or web development or to Business Intelligence and Computer Vision.**
 - 📫 How to reach me:
 <p align="center">
   <a href="zakariae.laaliji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
