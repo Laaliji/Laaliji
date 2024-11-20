@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently a first year Master's degree student in AI and Software Engineering at the Universty of Cadi Ayyad.
-- 🌱 I’m currently learning **AI concepts**
+- 🌱 I’m currently working on a **Page Builder website using Laravel 11 and React 18.**
 - 👯 I’m looking to collaborate on **projects related to mobile or web development or to Business Intelligence and Computer Vision.**
 - 📫 How to reach me:
 <p align="center">
