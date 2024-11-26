@@ -21,7 +21,7 @@
   <a href="https://github.com/Laaliji"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<h2 align="center">💻 Languages-Frameworks-Tools I use 💻</h2>
+<h2 align="center">💻 I use these technologies : 💻</h2>
 </br>
 
 <div align="center">
