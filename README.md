@@ -12,8 +12,8 @@
 
 
 - 🔭 I’m currently a first year Master's degree student in AI and Software Engineering at the Universty of Cadi Ayyad.
-- 🌱 I’m currently working on a **Page Builder website using Laravel 11 and React 18.**
-- 👯 I’m looking to collaborate on **projects related to mobile or web development or to Business Intelligence and Computer Vision.**
+- 🌱 I’m currently working on a **Books Recommandation system** using Machine learning techniques.
+- 👯 I’m looking to collaborate on **projects related to mobile or web development or to Machine learning and Computer Vision.**
 - 📫 How to reach me:
 <p align="center">
   <a href="zakariae.laaliji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
