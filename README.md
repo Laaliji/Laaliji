@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate full stack developer from Morocco 👨‍💻🇲🇦</h3>
+<h3 align="center">I am from Morocco 🇲🇦, I am passionate about Dev and AI 👨‍💻</h3>
 
 <br/>
 
