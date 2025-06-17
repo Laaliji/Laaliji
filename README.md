@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently a first year Master's degree student in AI and Software Engineering at the Universty of Cadi Ayyad.
-- 🌱 I’m currently working on a **Books Recommandation system** using Machine learning techniques.
+- 🌱 I’m currently working on a **Fatwa Islamic web application** using React and Laravel.
 - 👯 I’m looking to collaborate on **projects related to mobile or web development or to Machine learning and Computer Vision.**
 - 📫 How to reach me:
 <p align="center">
