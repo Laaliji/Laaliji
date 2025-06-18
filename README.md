@@ -1,11 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Laaliji.Laaliji" />
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Assalamu+alaykum+👋;+I'm+Zakariae+LAALIJI!;"/>
-  </a>
-</h1>
-
 # 🌟 Zakariae LAALIJI - Software Engineer & AI Enthusiast
 
 <div align="center">
@@ -25,7 +17,7 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 
 ### 🎯 Current Focus
 - 🔭 **Academic Journey**: First-year Master's student specializing in AI and Software Engineering
-- 🌱 **Active Project**: Developing a comprehensive **Fatwa Islamic Web Application** using React.js and Laravel
+- 🌱 **Active Project**: Developing a comprehensive **Fatwa Islamic Web Application** using React.js and Laravel (Inertia)
 - 👯 **Collaboration Goals**: Seeking opportunities in web/mobile development, machine learning, and computer vision projects
 - 🎨 **Passion**: Creating innovative solutions that bridge technology and real-world problems
 
@@ -77,7 +69,7 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 **Description**: A comprehensive web platform providing Islamic guidance and scholarly opinions through modern web technologies.
 
 ### 🔬 Machine Learning & Computer Vision Projects
-**Tech Stack**: Python | TensorFlow | OpenCV  
+**Tech Stack**: Python | TensorFlow | OpenCV  |  Scikit-learn
 **Focus**: Developing innovative AI solutions for real-world applications.
 
 ---
@@ -111,7 +103,7 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 ---
 
 <div align="center">
-  <h3>💡 "Code is poetry, and every project is a chance to create something beautiful and meaningful." 💡</h3>
+  <h3>🕌 "وَقُل رَّبِّ زِدْنِي عِلْمًا" - "And say: My Lord, increase me in knowledge." (Quran 20:114) 🕌</h3>
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
 </div>
