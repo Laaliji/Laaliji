@@ -6,30 +6,121 @@
   </a>
 </h1>
 
-<h3 align="center">I am from Morocco 🇲🇦, I am passionate about Dev and AI 👨‍💻</h3>
-
-<br/>
-
-
-- 🔭 I’m currently a first year Master's degree student in AI and Software Engineering at the Universty of Cadi Ayyad.
-- 🌱 I’m currently working on a **Fatwa Islamic web application** using React and Laravel.
-- 👯 I’m looking to collaborate on **projects related to mobile or web development or to Machine learning and Computer Vision.**
-- 📫 How to reach me:
-<p align="center">
-  <a href="zakariae.laaliji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zakariae-laaliji-282184235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Laaliji"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<h2 align="center">💻 I use these technologies : 💻</h2>
-</br>
+# 🌟 Zakariae LAALIJI - Software Engineer & AI Enthusiast
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,javascript,python,c,dart,express,laravel,nodejs,django,html,css,bootstrap,jquery,react,flutter,dart,git,docker,kafka,grafana,prometheus,maven,gradle,tensorflow,opencv,vscode,pycharm,idea,postman,figma,github,eclipse,androidstudio,anaconda"/>
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+alaykum+👋;I'm+Zakariae+LAALIJI!;Software+Engineer;AI+Enthusiast;Full-Stack+Developer;Machine+Learning+Explorer" />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Laaliji.Laaliji" />
+  <img src="https://komarev.com/ghpvc/?username=Laaliji&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲🇦, currently pursuing my Master's degree in **Artificial Intelligence and Software Engineering** at the prestigious University of Cadi Ayyad.
+
+### 🎯 Current Focus
+- 🔭 **Academic Journey**: First-year Master's student specializing in AI and Software Engineering
+- 🌱 **Active Project**: Developing a comprehensive **Fatwa Islamic Web Application** using React.js and Laravel
+- 👯 **Collaboration Goals**: Seeking opportunities in web/mobile development, machine learning, and computer vision projects
+- 🎨 **Passion**: Creating innovative solutions that bridge technology and real-world problems
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### 🌐 **Frontend Development**
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,jquery" />
+
+### ⚙️ **Backend Development**
+<img src="https://skillicons.dev/icons?i=php,python,java,nodejs,laravel,django,express" />
+
+### 📱 **Mobile Development**
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+
+### 🤖 **AI & Machine Learning**
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,anaconda" />
+
+### 🛠️ **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=git,docker,kafka,grafana,prometheus,maven,gradle,github" />
+
+### 💻 **Development Environment**
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,postman,figma" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laaliji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaliji&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laaliji&theme=algolia" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 🕌 Fatwa Islamic Web Application
+**Tech Stack**: React.js | Laravel | MySQL  
+**Description**: A comprehensive web platform providing Islamic guidance and scholarly opinions through modern web technologies.
+
+### 🔬 Machine Learning & Computer Vision Projects
+**Tech Stack**: Python | TensorFlow | OpenCV  
+**Focus**: Developing innovative AI solutions for real-world applications.
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <a href="mailto:zakariae.laaliji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zakariae-laaliji-282184235/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Laaliji">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+## 🌱 What I'm Looking For
+
+- **Collaboration Opportunities**: Open to working on innovative projects in:
+  - 🌐 **Web Development** (Frontend & Backend)
+  - 📱 **Mobile Application Development**
+  - 🤖 **Machine Learning & AI**
+  - 👁️ **Computer Vision Applications**
+
+- **Learning & Growth**: Always eager to explore new technologies and contribute to meaningful projects that make a difference.
+
+---
+
+<div align="center">
+  <h3>💡 "Code is poetry, and every project is a chance to create something beautiful and meaningful." 💡</h3>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/Laaliji">Zakariae LAALIJI</a> - Let's build the future together! ⭐</i>
+</div>
 
     
 
