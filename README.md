@@ -28,13 +28,13 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 <div align="center">
 
 ### 🌐 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,jquery,tailwind" />
 
 ### ⚙️ **Backend Development**
-<img src="https://skillicons.dev/icons?i=php,python,java,nodejs,laravel,django,express" />
+<img src="https://skillicons.dev/icons?i=php,laravel,express,nodejs" />
 
 ### 📱 **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio" />
 
 ### 🤖 **AI & Machine Learning**
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,anaconda" />
