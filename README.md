@@ -9,6 +9,10 @@
   <img src="https://komarev.com/ghpvc/?username=Laaliji&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
+<div align="center">
+  <h3>🕌 "وَقُل رَّبِّ زِدْنِي عِلْمًا" - "And say: My Lord, increase me in knowledge." (Quran 20:114) 🕌</h3>
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -99,14 +103,6 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
   - 👁️ **Computer Vision Applications**
 
 - **Learning & Growth**: Always eager to explore new technologies and contribute to meaningful projects that make a difference.
-
----
-
-<div align="center">
-  <h3>🕌 "وَقُل رَّبِّ زِدْنِي عِلْمًا" - "And say: My Lord, increase me in knowledge." (Quran 20:114) 🕌</h3>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
-</div>
 
 ---
 
