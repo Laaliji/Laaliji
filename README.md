@@ -56,12 +56,24 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laaliji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaliji&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laaliji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaliji&layout=compact&langs_count=8&theme=algolia&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laaliji&theme=algolia" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laaliji&theme=algolia&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laaliji&theme=github-compact&hide_border=true&cache_seconds=1800" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Laaliji&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15&cache_seconds=1800" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -73,7 +85,7 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 **Description**: A comprehensive web platform providing Islamic guidance and scholarly opinions through modern web technologies.
 
 ### 🔬 Machine Learning & Computer Vision Projects
-**Tech Stack**: Python | TensorFlow | OpenCV  |  Scikit-learn
+**Tech Stack**: Python | TensorFlow | OpenCV | Scikit-learn  
 **Focus**: Developing innovative AI solutions for real-world applications.
 
 ---
@@ -109,9 +121,3 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 <div align="center">
   <i>⭐ From <a href="https://github.com/Laaliji">Zakariae LAALIJI</a> - Let's build the future together! ⭐</i>
 </div>
-
-    
-
-
-
-
