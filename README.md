@@ -56,16 +56,22 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laaliji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaliji&layout=compact&langs_count=8&theme=algolia&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laaliji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaliji&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </div>
 
+<!-- Alternative Streak Stats Services -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laaliji&theme=algolia&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Laaliji&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<!-- Backup Streak Stats -->
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laaliji&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</div> -->
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laaliji&theme=github-compact&hide_border=true&cache_seconds=1800" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laaliji&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -73,7 +79,25 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laaliji&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15&cache_seconds=1800" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Laaliji&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Additional Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laaliji&theme=algolia" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laaliji&theme=algolia" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Laaliji&theme=algolia" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laaliji&theme=algolia" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Laaliji&theme=algolia&utcOffset=1" alt="Productive Time" />
 </div>
 
 ---
