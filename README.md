@@ -21,7 +21,7 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 
 ### 🎯 Current Focus
 - 🔭 **Academic Journey**: First-year Master's student specializing in AI and Software Engineering
-- 🌱 **Active Project**: Developing a comprehensive **Fatwa Islamic Web Application** using React.js and Laravel (Inertia)
+- 🌱 **Active Project**: Developing a comprehensive **Islamic Consultations Web Application** using React.js (Inertia) and Laravel (Filament)
 - 👯 **Collaboration Goals**: Seeking opportunities in web/mobile development, machine learning, and computer vision projects
 - 🎨 **Passion**: Creating innovative solutions that bridge technology and real-world problems
 
