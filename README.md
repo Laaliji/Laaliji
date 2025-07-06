@@ -84,24 +84,6 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 
 ---
 
-## 📈 Additional Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laaliji&theme=algolia" alt="GitHub Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laaliji&theme=algolia" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Laaliji&theme=algolia" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Laaliji&theme=algolia" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Laaliji&theme=algolia&utcOffset=1" alt="Productive Time" />
-</div>
-
----
-
 ## 🎯 Featured Projects
 
 ### 🕌 Fatwa Islamic Web Application
