@@ -83,18 +83,6 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 
 ---
 
-## 🎯 Featured Projects
-
-### 🕌 Fatwa Islamic Web Application
-**Tech Stack**: React.js | Laravel | MySQL  
-**Description**: A comprehensive web platform providing Islamic guidance and scholarly opinions through modern web technologies.
-
-### 🔬 Machine Learning & Computer Vision Projects
-**Tech Stack**: Python | TensorFlow | OpenCV | Scikit-learn  
-**Focus**: Developing innovative AI solutions for real-world applications.
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
