@@ -75,14 +75,6 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Laaliji&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
