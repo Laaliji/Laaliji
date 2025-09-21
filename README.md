@@ -20,8 +20,8 @@
 I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲🇦, currently pursuing my Master's degree in **Artificial Intelligence and Software Engineering** at the prestigious University of Cadi Ayyad.
 
 ### 🎯 Current Focus
-- 🔭 **Academic Journey**: First-year Master's student specializing in AI and Software Engineering
-- 🌱 **Active Project**: Developing a comprehensive **Islamic Consultations Web Application** using React.js (Inertia) and Laravel (Filament)
+- 🔭 **Academic Journey**: Second-year Master's student specializing in AI and Software Engineering
+- 🌱 **Active Project**: Developing a comprehensive **an ecommerce SaaS** using TALL (TailwindCSS, Alpinejs, Laravel and Livewire) stack and Filament.
 - 👯 **Collaboration Goals**: Seeking opportunities in web/mobile development, machine learning, and computer vision projects
 - 🎨 **Passion**: Creating innovative solutions that bridge technology and real-world problems
 
