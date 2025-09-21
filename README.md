@@ -21,7 +21,7 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 
 ### 🎯 Current Focus
 - 🔭 **Academic Journey**: Second-year Master's student specializing in AI and Software Engineering
-- 🌱 **Active Project**: Developing a comprehensive **an ecommerce SaaS** using TALL (TailwindCSS, Alpinejs, Laravel and Livewire) stack and Filament.
+- 🌱 **Active Project**: Developing a comprehensive **ecommerce SaaS** using TALL (TailwindCSS, Alpinejs, Laravel and Livewire) stack and Filament.
 - 👯 **Collaboration Goals**: Seeking opportunities in web/mobile development, machine learning, and computer vision projects
 - 🎨 **Passion**: Creating innovative solutions that bridge technology and real-world problems
 
