@@ -1,4 +1,4 @@
-# 🌟 Zakariae LAALIJI - Software Engineer & AI Enthusiast
+# 🌟 Zakariae LAALIJI - AI developer - Software Engineer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+alaykum+👋;I'm+Zakariae+LAALIJI!;Software+Engineer;AI+Enthusiast;Full-Stack+Developer;Machine+Learning+Explorer" />
