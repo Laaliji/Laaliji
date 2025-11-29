@@ -1,4 +1,4 @@
-# 🌟 Zakariae LAALIJI - AI developer - Software Engineer
+# 🌟 Zakariae LAALIJI - AI Engineer - Web Developer (Laravel, Filament)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+alaykum+👋;I'm+Zakariae+LAALIJI!;Software+Engineer;AI+Enthusiast;Full-Stack+Developer;Machine+Learning+Explorer" />
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲🇦, currently pursuing my Master's degree in **Artificial Intelligence and Software Engineering** at the prestigious University of Cadi Ayyad.
+I'm a passionate **Web Developer** and **AI Engineer** from Morocco 🇲🇦, currently pursuing my Master's degree in **Artificial Intelligence and Software Engineering** at the prestigious University of Cadi Ayyad.
 
 ### 🎯 Current Focus
 - 🔭 **Academic Journey**: Second-year Master's student specializing in AI and Software Engineering
@@ -95,8 +95,7 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 
 - **Collaboration Opportunities**: Open to working on innovative projects in:
   - 🌐 **Web Development** (Frontend & Backend)
-  - 📱 **Mobile Application Development**
-  - 🤖 **Machine Learning & AI**
+  - 🤖 **Machine Learning & Deep Learning**
   - 👁️ **Computer Vision Applications**
 
 - **Learning & Growth**: Always eager to explore new technologies and contribute to meaningful projects that make a difference.
@@ -104,5 +103,5 @@ I'm a passionate **Software Engineer** and **AI Enthusiast** from Morocco 🇲�
 ---
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/Laaliji">Zakariae LAALIJI</a> - Let's build the future together! ⭐</i>
+  <i>⭐ From <a href="https://github.com/Laaliji">Zakariae LAALIJI</a> - Let's build together! ⭐</i>
 </div>
