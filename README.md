@@ -1,7 +1,7 @@
-# 🌟 Zakariae LAALIJI - AI Engineer - Web Developer (Laravel, Filament)
+# 🌟 Zakariae LAALIJI - AI Engineer & Full-Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+alaykum+👋;I'm+Zakariae+LAALIJI!;Software+Engineer;AI+Enthusiast;Full-Stack+Developer;Machine+Learning+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Assalamu+alaykum+👋;I'm+Zakariae+LAALIJI!;AI+Engineer;Full-Stack+Developer;Building+Production-Ready+AI+Systems" />
 </div>
 
 <div align="center">
@@ -17,37 +17,37 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Web Developer** and **AI Engineer** from Morocco 🇲🇦, currently pursuing my Master's degree in **Artificial Intelligence and Software Engineering** at the prestigious University of Cadi Ayyad.
+I'm an AI Engineer and Full-Stack Developer from Morocco 🇲🇦, currently pursuing a Master's in Artificial Intelligence and Software Engineering. I specialize in building **production-ready AI systems**, with focus on **LLMs, NLP, RAG pipelines**, and AI-powered web applications.
 
 ### 🎯 Current Focus
 - 🔭 **Academic Journey**: Second-year Master's student specializing in AI and Software Engineering
-- 🌱 **Active Project**: Working on a healthcare Deep Learning task : Alzheimer Detection
-- 👯 **Collaboration Goals**: Seeking opportunities in web/mobile development, machine learning, and computer vision projects
-- 🎨 **Passion**: Creating innovative solutions that bridge technology and real-world problems
+- 🌱 **Active Project**: Building a document answering RAG application with FastAPI best practices
+- 👯 **Open to**: AI-powered projects, LLM applications, and full-stack development opportunities
+- 🎨 **Passion**: Creating innovative solutions that bridge cutting-edge AI research with real-world applications
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Core Tech Stack
 
 <div align="center">
 
-### 🌐 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,jquery,tailwind" />
-
-### ⚙️ **Backend Development**
-<img src="https://skillicons.dev/icons?i=php,laravel,express,nodejs" />
-
-### 📱 **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio" />
-
 ### 🤖 **AI & Machine Learning**
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<br/>
+**LangChain • Transformers • Hugging Face • RAG Systems • NLP**
+
+### 🌐 **Web Development**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,javascript,html,css" />
+<br/>
+**FastAPI • Flask • Express • Node.js**
+
+### 💾 **Databases & Backend**
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 
 ### 🛠️ **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=git,docker,kafka,grafana,prometheus,maven,gradle,github" />
-
-### 💻 **Development Environment**
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,postman,figma" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+<br/>
+**CI/CD • REST APIs • Version Control**
 
 </div>
 
@@ -59,19 +59,22 @@ I'm a passionate **Web Developer** and **AI Engineer** from Morocco 🇲🇦, cu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laaliji&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </div>
 
-<!-- Alternative Streak Stats Services -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Laaliji&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<!-- Backup Streak Stats -->
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laaliji&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</div> -->
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laaliji&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </div>
+
+---
+
+## 🎯 What I Bring to the Table
+
+- **🤖 AI Engineering**: Experience with LLMs, RAG systems, NLP, and deploying ML models to production
+- **🌐 Full-Stack Development**: Building scalable web applications with modern frameworks
+- **📚 Continuous Learning**: Staying current with latest AI/ML research and best practices
+- **🔧 Problem Solver**: Translating complex requirements into practical, maintainable solutions
 
 ---
 
@@ -91,17 +94,15 @@ I'm a passionate **Web Developer** and **AI Engineer** from Morocco 🇲🇦, cu
 
 ---
 
-## 🌱 What I'm Looking For
+## 🌱 Open to Opportunities In
 
-- **Collaboration Opportunities**: Open to working on innovative projects in:
-  - 🌐 **Web Development** (Frontend & Backend)
-  - 🤖 **Machine Learning & Deep Learning**
-  - 👁️ **Computer Vision Applications**
-
-- **Learning & Growth**: Always eager to explore new technologies and contribute to meaningful projects that make a difference.
+- 🤖 **AI/ML Projects**: LLM applications, RAG systems, NLP solutions
+- 🌐 **Full-Stack Development**: Modern web applications with AI integration
+- 👁️ **Computer Vision**: Image processing and object detection applications
+- 🔬 **Research & Innovation**: Bridging academic research with practical implementations
 
 ---
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/Laaliji">Zakariae LAALIJI</a> - Let's build together! ⭐</i>
+  <i>⭐ From <a href="https://github.com/Laaliji">Zakariae LAALIJI</a> - Let's build the future with AI! ⭐</i>
 </div>
