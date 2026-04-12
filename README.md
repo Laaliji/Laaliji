@@ -28,8 +28,8 @@
 - 💼 **Full-Stack Developer** building production-ready AI-powered applications
 - 🔭 Currently working on a **multimodal traffic prediction** system (GNN + Transformer)
 - 🌱 Currently mastering **Graph Neural Networks & Spatio-Temporal Transformers**
-- 🎯 2025 Goals: Publish research, contribute to Open Source & build impactful AI solutions
-- ⚡ Fun fact: Coffee + Code + Quran = Pure Barakah ☕️💻
+- 🎯 2026 Goals: Publish research, contribute to Open Source & build impactful AI solutions
+- ⚡ Fact: Coffee + Code + Quran = Pure Barakah ☕️💻
 
 ---
 
