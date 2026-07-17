@@ -1,10 +1,10 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zakariae%20LAALIJI&fontSize=42&fontAlignY=30&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Researcher&descAlignY=51&descSize=18&animation=twinkling" width="100%"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zakariae%20LAALIJI&fontSize=42&fontAlignY=30&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=51&descSize=18&animation=twinkling" width="100%"/> 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Assalamu+alaykum+%F0%9F%91%8B;I'm+Zakariae+LAALIJI!;AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Building+Production-Ready+AI+Systems+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Assalamu+alaykum+%F0%9F%91%8B;I'm+Zakariae+LAALIJI!;AI+Engineer+%F0%9F%A4%96;Data+Engineer+%F0%9F%97%84%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Building+Production-Ready+AI+%26+Data+Systems+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,12 +23,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🎓 **Master's Student** in AI & Computer Engineering at FST Marrakech (Université Cadi Ayyad)
+- 🎓 **Master's Degree** in AI & Computer Engineering, FST Marrakech (Université Cadi Ayyad)
 - 🤖 **AI Engineer** specializing in Transformers, LLMs, RAG pipelines, and NLP
+- 🗄️ **Data Engineer Practitioner** — building ETL/ELT pipelines, data warehouses, and lakehouse architectures
 - 💼 **Full-Stack Developer** building production-ready AI-powered applications
 - 🔭 Currently working on a **multimodal traffic prediction** system (GNN + Transformer)
 - 🌱 Currently mastering **Graph Neural Networks & Spatio-Temporal Transformers**
-- 🎯 2026 Goals: Publish research, contribute to Open Source & build impactful AI solutions
+- 🎯 2026 Goals: Publish research, contribute to Open Source & build impactful AI and data solutions
 - ⚡ Fact: Coffee + Code + Quran = Pure Barakah ☕️💻
 
 ---
@@ -54,6 +55,12 @@
 </p>
 <p align="center"><b>LangChain • Transformers • Hugging Face • RAG Systems • NLP • Graph Neural Networks</b></p>
 
+### 🗄️ Data Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,terraform,gcp&theme=dark" />
+</p>
+<p align="center"><b>ETL/ELT • Data Warehousing • Data Lake & Lakehouse • OLAP • Star/Snowflake Schema • dbt • BigQuery • IaC</b></p>
+
 ### 🌐 Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css&theme=dark" />
@@ -64,7 +71,7 @@
   <img src="https://skillicons.dev/icons?i=fastapi,flask,laravel,nodejs,express&theme=dark" />
 </p>
 
-### 🗄️ Databases
+### 🗃️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite&theme=dark" />
 </p>
@@ -95,12 +102,13 @@
 ---
 
 ## 🎯 Current Focus
-```python
+\`\`\`python
 class CurrentlyBuilding:
     def __init__(self):
         self.projects = [
             "🧠 Multimodal Traffic Prediction (GNN + Transformer hybrid)",
             "📄 RAG Document QA System with FastAPI",
+            "🗄️ GCP Socioeconomic Analytics Pipeline (dbt + BigQuery + Terraform)",
             "🌍 Bladi.ma — Moroccan cultural heritage mobile app",
             "🏟️  Mediano — AI-powered sports academy SaaS platform",
         ]
@@ -108,13 +116,14 @@ class CurrentlyBuilding:
             "📐 Spatio-Temporal Graph Transformers (STGformer)",
             "🔗 Graph Neural Networks & DCRNN",
             "🤗 Fine-tuning LLMs & Arabic NLP (AraBERT)",
+            "🗄️ Data Warehousing & Lakehouse architectures",
             "🐳 Docker & MLOps best practices",
             "📊 Multimodal Data Fusion strategies"
         ]
 
     def get_next_goal(self):
         return "Publish AI research that bridges theory and real-world impact! 🌟"
-```
+\`\`\`
 
 ---
 
@@ -133,6 +142,7 @@ class CurrentlyBuilding:
 ## 🌱 Open to Opportunities In
 
 - 🤖 **AI/ML Projects**: LLM applications, RAG systems, NLP & Graph-based solutions
+- 🗄️ **Data Engineering**: ETL/ELT pipelines, data warehousing, data lakes, cloud-based analytics infrastructure
 - 🌐 **Full-Stack Development**: Modern web & mobile apps with AI integration
 - 🔬 **Research & Innovation**: Bridging academic research with practical implementations
 - 👁️ **Computer Vision**: Image processing and object detection applications
