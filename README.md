@@ -80,14 +80,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Laaliji&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -95,32 +87,6 @@
 [![Zakariae's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laaliji&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Laaliji)
 
 </div>
-
----
-
-## 🎯 Current Focus
-\`\`\`python
-class CurrentlyBuilding:
-    def __init__(self):
-        self.projects = [
-            "🧠 Multimodal Traffic Prediction (GNN + Transformer hybrid)",
-            "📄 RAG Document QA System with FastAPI",
-            "🗄️ GCP Socioeconomic Analytics Pipeline (dbt + BigQuery + Terraform)",
-            "🌍 Bladi.ma — Moroccan cultural heritage mobile app",
-            "🏟️  Mediano — AI-powered sports academy SaaS platform",
-        ]
-        self.learning = [
-            "📐 Spatio-Temporal Graph Transformers (STGformer)",
-            "🔗 Graph Neural Networks & DCRNN",
-            "🤗 Fine-tuning LLMs & Arabic NLP (AraBERT)",
-            "🗄️ Data Warehousing & Lakehouse architectures",
-            "🐳 Docker & MLOps best practices",
-            "📊 Multimodal Data Fusion strategies"
-        ]
-
-    def get_next_goal(self):
-        return "Publish AI research that bridges theory and real-world impact! 🌟"
-\`\`\`
 
 ---
 
