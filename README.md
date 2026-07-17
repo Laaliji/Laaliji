@@ -27,9 +27,6 @@
 - 🤖 **AI Engineer** specializing in Transformers, LLMs, RAG pipelines, and NLP
 - 🗄️ **Data Engineer Practitioner** — building ETL/ELT pipelines, data warehouses, and lakehouse architectures
 - 💼 **Full-Stack Developer** building production-ready AI-powered applications
-- 🔭 Currently working on a **multimodal traffic prediction** system (GNN + Transformer)
-- 🌱 Currently mastering **Graph Neural Networks & Spatio-Temporal Transformers**
-- 🎯 2026 Goals: Publish research, contribute to Open Source & build impactful AI and data solutions
 - ⚡ Fact: Coffee + Code + Quran = Pure Barakah ☕️💻
 
 ---
