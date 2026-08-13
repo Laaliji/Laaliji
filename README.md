@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Assalamu+alaykum+%F0%9F%91%8B;I'm+Zakariae+LAALIJI!;AI+Engineer+%F0%9F%A4%96;Data+Engineer+%F0%9F%97%84%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Building+Production-Ready+AI+%26+Data+Systems+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Assalamu+alaykum+%F0%9F%91%8B;I'm+Zakariae+LAALIJI!;AI+&+Data+Engineer+%F0%9F%A4%96;Laravel+Backend+Developer+%F0%9F%92%BB;Building+Production-Ready+AI+%26+Data+Systems+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@
 - 🎓 **Master's Degree** in AI & Computer Engineering, FST Marrakech (Université Cadi Ayyad)
 - 🤖 **AI Engineer** specializing in Transformers, LLMs, RAG pipelines, and NLP
 - 🗄️ **Data Engineer Practitioner** — building ETL/ELT pipelines, data warehouses, and lakehouse architectures
-- 💼 **Full-Stack Developer** building production-ready AI-powered applications
+- 💼 **Laravel Developer** building production-ready Laravel applications
 - ⚡ Fact: Coffee + Code + Quran = Pure Barakah ☕️💻
 
 ---
@@ -107,7 +107,6 @@
 - 🤖 **AI/ML Projects**: LLM applications, RAG systems, NLP & Graph-based solutions
 - 🗄️ **Data Engineering**: ETL/ELT pipelines, data warehousing, data lakes, cloud-based analytics infrastructure
 - 🌐 **Full-Stack Development**: Modern web & mobile apps with AI integration
-- 🔬 **Research & Innovation**: Bridging academic research with practical implementations
 - 👁️ **Computer Vision**: Image processing and object detection applications
 
 ---
