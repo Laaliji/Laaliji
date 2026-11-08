@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=120&section=header&text=Zakariae%20Laaliji&fontSize=38&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=6&section=header" width="100%"/>
+
+<a href="https://github.com/Laaliji">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=1E3A8A&center=true&vCenter=true&width=650&lines=Zakariae+Laaliji;PhD+Candidate+in+AI;Data+%26+Software+Engineer;Building+intelligent+remote-control+systems;Teaching+computer+science" alt="Typing SVG" />
+</a>
 
 **PhD Candidate in AI · Data & Software Engineer**
 
