@@ -26,7 +26,7 @@ My background spans software engineering, machine learning and data engineering.
 - **PhD:** Université Internationale Bleue, Mohammedia (2026 – present)
 - **MSc in AI & Computer Engineering:** FST Marrakech, Université Cadi Ayyad (2024 – 2026)
 - **Licence in Software Engineering:** EST Safi (2023 – 2024)
-- **Internships:** OCP Group (2022), ONEE (2023)
+- **Internships:** OCP Group (2022), ONEE (2023), M2S Innovation (2024), Elevvo Pathways (2025)
 
 ### Contact
 
